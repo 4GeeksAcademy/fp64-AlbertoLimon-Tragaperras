@@ -1,0 +1,36 @@
+
+h1{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.tragaperras{
+    display: flex;
+    justify-items: center;
+    text-align: center;
+    gap: 1rem;
+}
+.columna{
+    display: flex;
+    min-width: 100px;
+    width: 100%;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+button{
+    justify-content: center;
+    align-items: center;
+}
+.resultado{
+    font-size: 2rem;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    
+}
